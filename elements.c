@@ -1,7 +1,7 @@
 #include "proj.h"
 
 /**
- * elements - this shows the elements in the list
+ * elements - this shows the el in the list
  * @w: this points to the head
  * Return: size
  */
