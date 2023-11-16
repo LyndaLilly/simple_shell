@@ -1,7 +1,7 @@
 #include "proj.h"
 
 /**
- * loged - handles the function for displaying information
+ * loged - handle the func for displaying information
  * @codep: thi contains potential info
  * Return: 0
  */
