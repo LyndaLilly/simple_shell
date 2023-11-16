@@ -1,8 +1,8 @@
 #include "proj.h"
 /**
- * _dynops- this realeases the pointers
+ * _dynops- this realease the pointers
  * @arch: this is going addess pointer
- * Return: 0 or 1.
+ * Return: 0 or 1
  */
 int _dynops(void **arch)
 {
