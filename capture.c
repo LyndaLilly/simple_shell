@@ -4,7 +4,7 @@
  * allowed - this allows the func
  * @codep: this holds information
  * @bre: this is the buffer
- * @stre: this is the length
+ * @stre: this is the len
  * Return: bytes
  */
 ssize_t allowed(code_proj *codep, char **bre, size_t *stre)
