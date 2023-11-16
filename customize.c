@@ -2,7 +2,7 @@
 
 /**
  * loged - handles the function for displaying information
- * @codep: this contains potential info
+ * @codep: thi contains potential info
  * Return: 0
  */
 int loged(code_proj *codep)
